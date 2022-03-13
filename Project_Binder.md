@@ -155,14 +155,13 @@
   
 
 ## System Design
-
   
 
 ### Past Versions
 
  #### Jobs Class Diagram V1
  
-![](https://raw.githubusercontent.com/IN2018-2022-15/project-binder/main/GARITS%20VPP%20Projects/Jobs%20and%20Invoices%20Class%20Diagram%20Version%200.1.jpg?token=GHSAT0AAAAAABR7JZYITHIMZSBRQWCJAQOYYRNBKNQ)
+![](https://raw.githubusercontent.com/IN2018-2022-15/Img-Host/main/VC/Jobs%20and%20Invoices%20Class%20Diagram1.jpg)
 Author: Raj
 
  #### Jobs Class Diagram V2
@@ -171,7 +170,7 @@ Author: Raj
 Author: Raj + Maksymilian
 
  #### Account Management Class Diagram V1
- ![](https://raw.githubusercontent.com/IN2018-2022-15/project-binder/main/GARITS%20VPP%20Projects/Account%20Management%20Class%20Diagram%20Version%200.1.jpg?token=GHSAT0AAAAAABR7JZYIBZNCF26SG4PZOCU2YRNBCFQ)
+![](https://raw.githubusercontent.com/IN2018-2022-15/Img-Host/main/VC/Account%20Management%20Class%20Diagram%20V1.jpg)
 Author: Raj
 
 #### Account Management Class Diagram V2
